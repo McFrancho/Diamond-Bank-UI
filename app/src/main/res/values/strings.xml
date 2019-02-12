@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Diamond Bank</string>
+    <string name="help">Help</string>
+    <string name="choice">Choose Country</string>
+    <string name="register">Register</string>
+    <string name="quickTransfer">Quick Transfer</string>
+    <string name="quickBillPayment">Quick Bill Payment</string>
+    <string name="quickLoans">Quick Loans</string>
+    <string name="forgotLoginDetails">Forgot Login Details</string>
+    <string name="changedDevice">Changed Device?</string>
+    <string name="openAnAccount">Open an Account</string>
+    <string name="internetBanking">Internet Banking</string>
+
+    <string-array name="country">
+
+
+        <item><font fgcolor='#fff'>Choose Country</font></item>
+        <item><font fgcolor='#fff'>Nigeria</font></item>
+
+    </string-array>
+
+</resources>
